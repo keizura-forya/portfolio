@@ -1,4 +1,4 @@
-# Kei - A person on earth (why do you care about me anyway)
+# Kei - A person on earth
 
 I am trying to learn programming so that I can code things that I always wanted. 
 But Ai thing is going around and someday I will just have to go back to farming I guess.
